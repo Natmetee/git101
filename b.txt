@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-pew pew 
-pong ong
-=======
-`pew pew pew
->>>>>>> feature2
+HAHAHAHA
